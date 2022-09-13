@@ -3,10 +3,10 @@ Simulation Models for the LICD (both the current and the new LICD layouts), toge
 
 Evaluating the long-term operational performance of a large-scale inland terminal: A discrete event simulation-based modeling approach
 
-About the project
+About the project : 
 This project evaluates the long-term operational performance of a large-scale inland terminal by using a Discrete Event Simulation (DES) modeling framework.
 
-Data
+Data : 
 The data in this study were provided by the State Railway of Thailand (SRT) and the Eastern Sea Laem Chabang Terminal Co., Ltd (ESCO), including the numbers of import and export containers at the LadKrabang Inland Container Depot (LICD), Thailand, during October 1, 2018 - September 30, 2019. 
 
 1.	LICD settings and the five scenarios
